@@ -22,7 +22,7 @@ The short term goals focus on highlighting and promoting existing open source in
 
 Practical steps will include making sure these are compatible and interoperable where appropriate.
 
-<p align="center"><img src="images/Formats.png"><br/><i>Some of the formats which are being examined in this SIG and their scope in terms of biophysical detail (x-axis) and usage in the model building workflow (y-axis)</i-></p>
+<p align="center"><img src="images/Formats.png"><br/><sup><b><i>Some of the formats which are being examined in this SIG and their scope in terms of biophysical detail (x-axis) and usage in the model building workflow (y-axis)</i></b></sup></p>
 
 Longer term goals including working towards minimising overlap in functionality/scope, adding other open tools/formats to the interoperability framework and ensuring the use of these (particularly low level declarative formats) are as transparent and as user friendly as possible for the modeller. 
 
