@@ -22,8 +22,25 @@ The short term goals focus on highlighting and promoting existing open source in
 
 Practical steps will include making sure these are compatible and interoperable where appropriate.
 
-<p align="center"><img src="images/Formats.png"><br/><sup><b><i>Some of the formats which are being examined in this SIG and their scope in terms of biophysical detail (x-axis) and usage in the model building workflow (y-axis)</i></b></sup></p>
+<p align="center"><img src="images/Formats.png"><br/><sup><i>Some of the formats which are being examined in this SIG and their scope in terms of biophysical detail (x-axis) and usage in the model building workflow (y-axis).</i></sup></p>
 
 Longer term goals including working towards minimising overlap in functionality/scope, adding other open tools/formats to the interoperability framework and ensuring the use of these (particularly low level declarative formats) are as transparent and as user friendly as possible for the modeller. 
+
+### Current members
+
+- Anton Arkhipov, Allen Institute, USA
+- Sharon Crook, Arizona State University, USA
+- Kael Dai, Allen Institute, USA
+- Andrew Davison, UNIC, CNRS, France
+- Lia Domide, Codemart, Romania & Aix-Marseille Université, France
+- Salvador Durá-Bernal, SUNY Downstate Medical Center, USA
+- Viktor Jirsa, Aix-Marseille Université, France
+- Padraig Gleeson, University College London, UK
+- Marmaduke Woodman, Aix-Marseille Université, France
+
+
+### Upcoming activities
+
+Workshop “Developing, standardising and sharing large scale cortical network models” at CNS 2018 in Seattle: http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018 
 
 
