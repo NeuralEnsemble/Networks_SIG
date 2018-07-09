@@ -36,6 +36,7 @@ Longer term goals including working towards minimising overlap in functionality/
 - Salvador Durá-Bernal, SUNY Downstate Medical Center, USA
 - Viktor Jirsa, Aix-Marseille Université, France
 - Padraig Gleeson, University College London, UK
+- Sacha van Albada, Jülich Research Centre, Germany
 - Marmaduke Woodman, Aix-Marseille Université, France
 
 
