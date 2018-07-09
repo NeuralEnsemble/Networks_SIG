@@ -18,6 +18,7 @@ The short term goals focus on highlighting and promoting existing open source in
 - NetPyNE: http://www.netpyne.org   
 - Sonata: https://github.com/AllenInstitute/sonata 
 - The Brain Modeling Toolkit: https://github.com/AllenInstitute/bmtk 
+- NEST: http://www.nest-simulator.org
 - The Virtual Brain: http://www.thevirtualbrain.org 
 
 Practical steps will include making sure these are compatible and interoperable where appropriate.
