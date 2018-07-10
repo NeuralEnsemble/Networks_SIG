@@ -13,13 +13,14 @@ The motivation for this SIG is the ongoing development of complex data-driven mo
 
 The short term goals focus on highlighting and promoting existing open source initiatives working with network representations. These include, but are not limited to:  
 
-- PyNN: http://neuralensemble.org/PyNN/ 
-- NeuroML: http://www.neuroml.org; https://github.com/NeuroML/NeuroMLlite 
-- NetPyNE: http://www.netpyne.org   
-- Sonata: https://github.com/AllenInstitute/sonata 
-- The Brain Modeling Toolkit: https://github.com/AllenInstitute/bmtk 
+- BMTK, The Brain Modeling Toolkit: https://github.com/AllenInstitute/bmtk 
 - NEST: http://www.nest-simulator.org
-- The Virtual Brain: http://www.thevirtualbrain.org 
+- NetPyNE: http://www.netpyne.org   
+- NeuroML: http://www.neuroml.org; https://github.com/NeuroML/NeuroMLlite 
+- NineML: http://www.nest-simulator.org
+- PyNN: http://neuralensemble.org/PyNN/ 
+- Sonata: https://github.com/AllenInstitute/sonata 
+- TVB, The Virtual Brain: http://www.thevirtualbrain.org 
 
 Practical steps will include making sure these are compatible and interoperable where appropriate.
 
@@ -30,6 +31,7 @@ Longer term goals including working towards minimising overlap in functionality/
 ### Current members
 
 - Anton Arkhipov, Allen Institute, USA
+- Tom Close, Monash University, Australia
 - Sharon Crook, Arizona State University, USA
 - Kael Dai, Allen Institute, USA
 - Andrew Davison, UNIC, CNRS, France
