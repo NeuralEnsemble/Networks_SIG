@@ -55,6 +55,7 @@ and as user friendly as possible for the modeller.
 - Lia Domide, Codemart, Romania & Aix-Marseille Université, France
 - Salvador Durá-Bernal, SUNY Downstate Medical Center, USA
 - Viktor Jirsa, Aix-Marseille Université, France
+- John Griffiths, Rotman Research Institute, Baycrest, Canada
 - Padraig Gleeson, University College London, UK
 - Sacha van Albada, Jülich Research Centre, Germany
 - Marmaduke Woodman, Aix-Marseille Université, France
