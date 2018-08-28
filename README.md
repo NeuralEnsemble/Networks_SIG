@@ -1,6 +1,6 @@
 ## INCF Special Interest Group on Standardised Representations of Network Structures
 
-A number of [Special Interest Groups (SIGs)](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/call-for-community-proposals) 
+A number of [Special Interest Groups (SIGs)](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups) 
 are being supported by the [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org) 
 to advance areas of common interest within the neuroscience community.  
 
@@ -8,7 +8,7 @@ This SIG deals with the various tools and formats for creating and sharing repre
 of biological neuronal networks, and will work towards ensuring these are as interoperable 
 and usable as possible for computational neuroscientists. 
 
-The homepage for this SIG is [here](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups). 
+The homepage for this SIG is [here](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised). 
 This GitHub repository is intended for documents, code samples, issue tracking and links to related initiatives. 
 
 ### Overview
@@ -67,6 +67,6 @@ and as user friendly as possible for the modeller.
 
 A workshop entitled “Developing, standardising and sharing large scale cortical 
 network models” was held at CNS 2018 in Seattle: http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018. 
-A report of the meeting is available [here](https://github.com/NeuralEnsemble/Networks_SIG/blob/master/Report_CNS2018_Workshop.md). 
+A report of the meeting is available [here](Report_CNS2018_Workshop.md). 
 
 
