@@ -138,15 +138,19 @@ Current functionality, and mappings from the format into executable code, as wel
 ## Discussion and future plans
 
 
-There was general agreement t
+There was general agreement that it was useful for these initiatives to work together to make it easier for users to create detailed network models. 
+An important aspect of all the work presented was that the code was open source and freely available for all. 
+It was clear that all of these initiatives are still in active (sometimes early stages of) development and 
+depend on input from the community and workshops to improve and become more usable. 
 
-all open
 
-Concrete steps going forward
-nml-pynn
-Sonata - NeuroML, PyNN, NetPyNE
+Concrete steps which are planned going forward include:
 
-Activities of the SIG will continue and the next online videoconference for the 
+- Greater support for SONATA in NeuroMLlite, NetPyNE and PyNN
+- Investigation of areas of overlap in the NetPyNE format and NeuroMLlite and options for reuse of elements of the NetPyNE-UI in OSB
+- Getting the [multi area cortical model](https://github.com/INM-6/multi-area-model) into OSB and investigating options for mapping to NeuroML/NeuroMLlite/PyNN
+
+Activities of the [SIG](https://github.com/NeuralEnsemble/Networks_SIG) will continue and the next online videoconference for the group is planned for September 2018.
 
 
 
