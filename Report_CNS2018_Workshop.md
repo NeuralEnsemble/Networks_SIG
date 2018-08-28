@@ -1,8 +1,8 @@
-## Workshop report: Developing, standardising and sharing large scale cortical network models
+# Workshop report: Developing, standardising and sharing large scale cortical network models
 
 *A workshop at CNS 2018, Tues 17th July, Allen Institute, Seattle*
 
-### Background
+## Background
 
 A number of groups around the world are developing complex, experimentally constrained 
 models of cortical function. Creating the software infrastructure to develop, simulate 
@@ -17,9 +17,9 @@ This workshop was the first activity of the [INCF Special Interest Group (SIG)](
 [Standardised Representations of Network Structures](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised). 
 For more details on the current activities of this initiative, see [here](https://github.com/NeuralEnsemble/Networks_SIG). 
 
-### Presentations
+## Presentations
 
-#### Sacha van Albada
+### Sacha van Albada
 
 *Jülich Research Centre, Germany*
 
@@ -38,7 +38,7 @@ insights which can be gained from analysis of the connectivity of the model. The
 *Slides for this presentation are available [here](https://github.com/NeuralEnsemble/Networks_SIG/blob/master/docs/CNS2018/van_Albada_CNS2018_multi_area_model.pdf).*
 
 
-#### Anton Arkhipov<sup>1</sup> and Eilif Muller<sup>2</sup>
+### Anton Arkhipov<sup>1</sup> and Eilif Muller<sup>2</sup>
 
 *1: Allen Institute, Seattle, USA; 2: Blue Brain Project, Switzerland*
 
@@ -46,11 +46,23 @@ insights which can be gained from analysis of the connectivity of the model. The
 
 Eilif and Anton presented joint work between the Allen Institute and the Blue Brain project 
 to come up with a format for exchanging information on large scale simulations between the two initiatives. 
-[Sonata](https://github.com/AllenInstitute/sonata)
+
+Anton first presented the work the Allen Institute is doing to acquire and release large scale experimental data in many domains including 
+[connectivity](http://connectivity.brain-map.org/), [electrophysiology](http://celltypes.brain-map.org/) and 
+[*in-vivo* activity](http://observatory.brain-map.org/visualcoding) in mice. He also described modelling tools being developed at Allen, including the [Brain Modeling Toolkit, BMTK](https://github.com/AllenInstitute/bmtk).
+
+Eilif gave an overview of work in the [Blue Brain Project](https://bluebrain.epfl.ch/), including the neocortical microcircuit model as 
+described in [Markram et al., 2015](https://www.ncbi.nlm.nih.gov/pubmed/26451489). He also discussed related work in the 
+[Human Brain Project](https://www.ncbi.nlm.nih.gov/pubmed/26451489) to create large scale reconstructions of other brain regions including the hippocampus. 
+
+Both of these projects are creating large scale simulations, and in order to share these between themselves and the community, as well as to 
+help validate and reproduce the results, they have created a format [SONATA](https://github.com/AllenInstitute/sonata) which can 
+encapsulate the structure of the model (cells and connectivity), as well as the output (voltage traces, spiketimes). 
+The specification and examples in the format can be found at https://github.com/AllenInstitute/sonata.
 
 *Slides for this presentation are available [here](https://github.com/NeuralEnsemble/Networks_SIG/blob/master/docs/CNS2018/2018-07-SONATA_Arkhipov_Muller.pdf).*
 
-#### Salvador Dura-Bernal
+### Salvador Dura-Bernal
 
 *SUNY Downstate Medical Center, Brooklyn, NY, USA*
 
@@ -66,7 +78,7 @@ Graphical interface
 
 *Slides for this presentation are available [here](https://github.com/NeuralEnsemble/Networks_SIG/blob/master/docs/CNS2018/CNS18_workshop_NetPyNE.pdf).*
 
-#### Padraig Gleeson
+### Padraig Gleeson
 
 *University College London, UK*
 
@@ -79,7 +91,7 @@ NeuroMLlite
 
 *Slides for this presentation are available [here](https://github.com/NeuralEnsemble/Networks_SIG/blob/master/docs/CNS2018/CNS2018-NeuroMLOSBCorticalModels.pdf).*
 
-### Discussion and future plans
+## Discussion and future plans
 
 
 There was general agreement t
