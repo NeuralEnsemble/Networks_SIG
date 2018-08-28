@@ -25,13 +25,19 @@ For more details on the current activities of this initiative, see [here](https:
 
 **Large scale model development from the [NEST](http://www.nest-simulator.org) perspective**
 
+<p valign="centre">
+    <a href="https://github.com/INM-6/multi-area-model">
+        <img alt="" src="https://raw.githubusercontent.com/INM-6/multi-area-model/master/model_construction.png" height="160"/>
+    </a>
+</p>
+
 Sacha presented an overview of activities within the NEST community related to creating large scale models of networks constrained at multiple scales. 
 She presented first the motivation for creating large scale models (with numbers of neurons closer to real networks) and the need for multiscale models, 
 which can be compared to experimental data at the micro-, meso- and macroscale. The multilayer cortical network model of 
 [Potjans and Diesmann (2014)](https://www.ncbi.nlm.nih.gov/pubmed/23203991) was described, which was originally developed in NEST, and has been ported to 
 PyNN, Brian and Spinnaker, and is [available on OSB](http://www.opensourcebrain.org/projects/potjansdiesmann2014). 
 
-The Potjans and Diesmann model has formed the basis of a multi area model of macaque visual cortex ([Schmidt et al., 2018](https://link.springer.com/article/10.1007/s00429-017-1554-40)). Sacha described the technical 
+The Potjans and Diesmann model has formed the basis of a multi area model of macaque visual cortex ([Schmidt et al., 2018](https://link.springer.com/article/10.1007/s00429-017-1554-4)). Sacha described the technical 
 challenges of building a model of this complexity in NEST, the experimental data used to constrain the model, the activity of the simulated network as well as 
 insights which can be gained from analysis of the connectivity of the model. The model, together with extensive documentation is available at https://github.com/INM-6/multi-area-model.
 
@@ -43,6 +49,13 @@ insights which can be gained from analysis of the connectivity of the model. The
 *1: Allen Institute, Seattle, USA; 2: Blue Brain Project, Switzerland*
 
 **Data-Driven Modeling of Brain Circuits and the [SONATA Data Format](https://github.com/AllenInstitute/sonata)**
+
+
+<p valign="centre">
+    <a href="https://github.com/AllenInstitute/sonata">
+        <img alt="?" src="docs/CNS2018/Sonata.png" height="160"/>
+    </a>
+</p>
 
 Eilif and Anton presented joint work between the Allen Institute and the Blue Brain project 
 to come up with a format for exchanging information on large scale simulations between the two initiatives. 
@@ -68,12 +81,27 @@ The specification and examples in the format can be found at https://github.com/
 
 **Development of large scale data-driven network models in [NetPyNE](http://www.netpyne.org/), a high-level interface to [NEURON](https://www.neuron.yale.edu/neuron)**
 
-Salvador presented 
-desire to make it easier to create, manage and analyse large scale models in the neuron simulator
 
-M1 network model
-Already NeuroML compatible
-Graphical interface
+<p valign="centre">
+    <a href="http://www.netpyne.org/">
+        <img alt="" src="docs/CNS2018/NetPyNE.png" height="160"/>
+    </a>
+</p>
+
+
+Salvador presented the latest developments with [NetPyNE](http://www.netpyne.org/), a high level interface to 
+the Neuron simulator designed to make geenration, simulation and analysis of large scale network models easier for users. 
+He presented the motivation for developing a new package like this, particularly the difficulty of 
+incorporating realistic experimental data on cortical connectivity into network models. 
+
+He discussed the high level format for NetPyNE, which makes it possible to specify the network in a compact, declarative fashion. 
+He presented the options for running simulations using the package and analysing the results, using included methods. 
+Import and export formats, including [NeuroML](http://www.neuroml.org) were outlined. 
+
+A new graphical user interface (GUI) for NetPyNE has been developed and [released](https://github.com/MetaCell/NetPyNE-UI), 
+to make it even easier for new users to get started with network modelling. 
+
+He presented an example network developed in the package of the primary motor cortex, and showed some initial results from simulations of this large scale model (10<sup>5</sup> neurons).
 
 
 *Slides for this presentation are available [here](https://github.com/NeuralEnsemble/Networks_SIG/blob/master/docs/CNS2018/CNS18_workshop_NetPyNE.pdf).*
