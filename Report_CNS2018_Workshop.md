@@ -57,7 +57,7 @@ insights which can be gained from analysis of the connectivity of the model. The
     </a>
 </p>
 
-Eilif and Anton presented joint work between the Allen Institute and the Blue Brain project 
+Anton and Eilif presented joint work between the [Allen Institute](https://alleninstitute.org/) and the [Blue Brain Project](https://bluebrain.epfl.ch/) 
 to come up with a format for exchanging information on large scale simulations between the two initiatives. 
 
 Anton first presented the work the Allen Institute is doing to acquire and release large scale experimental data in many domains including 
@@ -90,12 +90,12 @@ The specification and examples in the format can be found at https://github.com/
 
 
 Salvador presented the latest developments with [NetPyNE](http://www.netpyne.org/), a high level interface to 
-the Neuron simulator designed to make geenration, simulation and analysis of large scale network models easier for users. 
+the Neuron simulator designed to make generation, simulation and analysis of large scale network models easier for users. 
 He presented the motivation for developing a new package like this, particularly the difficulty of 
 incorporating realistic experimental data on cortical connectivity into network models. 
 
 He discussed the high level format for NetPyNE, which makes it possible to specify the network in a compact, declarative fashion. 
-He presented the options for running simulations using the package and analysing the results, using included methods. 
+He presented the options for running simulations using the package and analysing the results, using inbuilt methods of the package. 
 Import and export formats, including [NeuroML](http://www.neuroml.org) were outlined. 
 
 A new graphical user interface (GUI) for NetPyNE has been developed and [released](https://github.com/MetaCell/NetPyNE-UI), 
