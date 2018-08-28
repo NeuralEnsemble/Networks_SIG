@@ -112,9 +112,25 @@ He presented an example network developed in the package of the primary motor co
 
 **Large scale cortical models in [NeuroML](https://www.neuroml.org/) format on [Open Source Brain](http://www.opensourcebrain.org/)**
 
-Padraig presented the latest developments with NeuroML, a standardised language 
-OSB models, including from bioRxiv
-NeuroMLlite
+<p valign="centre">
+    <a href="https://github.com/NeuroML/NeuroMLlite">
+        <img alt="" src="https://raw.githubusercontent.com/NeuroML/NeuroMLlite/790d74b75a2d88f9f0086a4bf86ee004edd16d33/images/NetworkShorthand.png" height="160"/>
+    </a>
+</p>
+
+Padraig presented the latest developments with [NeuroML](http://www.neuroml.org), a standardised language in computational neuroscience 
+for specifying models of cells, ion channels, synapses and 3D networks. The relationship between [NeuroML version 2 and LEMS](https://www.neuroml.org/lems_dev), a
+language for machine readable model descriptions, was briefly outlined. 
+
+The current functionality of the [Open Source Brain repository](http://www.opensourcebrain.org) was presented, 
+along with an overview of the [range of models](http://www.opensourcebrain.org/projects) 
+in NeuroML and [PyNN](http://neuralensemble.org/PyNN/) formats currently available on OSB. 
+A recent manuscript released on bioRxiv ([Gleeson et al., 2018](https://www.biorxiv.org/content/early/2018/01/11/229484)) describes the
+platform and some of the options for simulating and analysing the models through a web browser.
+
+Some of the shortcomings of the current NeuroML specification in terms of high level network descriptions were discussed, 
+and a new package, [NeuroMLlite](https://github.com/NeuroML/NeuroMLlite), was presented which seeks to address these. 
+Current functionality, and mappings from the format into executable code, as well as graphical depictions of network connectivity, were shown.  
 
 
 *Slides for this presentation are available [here](https://github.com/NeuralEnsemble/Networks_SIG/blob/master/docs/CNS2018/CNS2018-NeuroMLOSBCorticalModels.pdf).*
