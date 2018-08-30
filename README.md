@@ -29,7 +29,7 @@ The short term goals focus on highlighting and promoting existing open source in
 - NEST: http://www.nest-simulator.org
 - NetPyNE: http://www.netpyne.org   
 - NeuroML: http://www.neuroml.org; https://github.com/NeuroML/NeuroMLlite 
-- NineML: http://www.nest-simulator.org
+- NineML: http://www.nineml.net
 - PyNN: http://neuralensemble.org/PyNN/ 
 - Sonata: https://github.com/AllenInstitute/sonata 
 - TVB, The Virtual Brain: http://www.thevirtualbrain.org 
