@@ -63,10 +63,15 @@ and as user friendly as possible for the modeller.
 
 ### Activities
 
+#### Ongoing tasks
+
+An overview of the tasks which are ongoing and planned related to the work of this SIG can be found here: https://github.com/NeuralEnsemble/Networks_SIG/projects/1
+
 #### CNS 2018
 
 A workshop entitled “Developing, standardising and sharing large scale cortical 
 network models” was held at CNS 2018 in Seattle: http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018. 
 A report of the meeting is available [here](Report_CNS2018_Workshop.md). 
+
 
 
