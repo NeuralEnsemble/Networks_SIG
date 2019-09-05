@@ -73,5 +73,30 @@ A workshop entitled “Developing, standardising and sharing large scale cortica
 network models” was held at CNS 2018 in Seattle: http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018. 
 A report of the meeting is available [here](Report_CNS2018_Workshop.md). 
 
+#### OSB 2019
+
+A number of developers of the packages which are part of this SIG will be attending the 
+[Open Source Brain meeting](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) in Alghero, Sardinia in Sept 2019.
 
 
+### Outputs
+
+The following publications are related to the activities of this SIG. 
+
+**Note: these have not been specifically coordinated/funded/directed through this SIG, but feature 
+ authors from multiple labs who are members of this SIG and are in line with the goals of the wider group.**
+
+
+Padraig Gleeson, Matteo Cantarelli, Boris Marin, Adrian Quintana, Matt Earnshaw, Sadra Sadeh, Eugenio Piasini, Justas Birgiolas, Robert C. Cannon, N. Alex Cayco-Gajic,
+Sharon Crook, Andrew P.Davison, Salvador Dura-Bernal, András Ecker, Michael L. Hines, Giovanni Idili, Frederic Lanore, Stephen D. Larson, William W. Lytton,
+Amitava Majumdar, Robert A. McDougal, Subhashini Sivagnanam, Sergio Solinas, Rokas Stanislovas, Sacha J. van Albada, Werner van Geit, R. Angus Silver (2019). 
+**Open Source Brain: a collaborative resource for visualizing, analyzing, simulating and developing standardized models of neurons and circuits.** [Neuron 103 (3):395–411](https://www.sciencedirect.com/science/article/pii/S0896627319304441)
+
+Kael Dai, Juan Hernando, Yazan N. Billeh, Sergey L. Gratiy, Judit Planas, Andrew P. Davison, Salvador Dura-Bernal, Padraig Gleeson, Adrien Devresse, 
+Michael Gevaert, James G. King, Werner A. H. Van Geit, Arseny V. Povolotsky, Eilif Muller, Jean-Denis Courcol, Anton Arkhipov (2019). 
+**The SONATA data format for efficient description of large-scale network models.** [bioRxiv 625491](https://www.biorxiv.org/content/10.1101/625491v1)
+
+
+Salvador Dura-Bernal, Benjamin A Suter, Padraig Gleeson, Matteo Cantarelli, Adrian Quintana, Facundo Rodriguez, David J Kedziora, George L Chadderdon, 
+Cliff C Kerr, Samuel A Neymotin, Robert A McDougal, Michael Hines, Gordon MG Shepherd, William W Lytton (2019). 
+**NetPyNE, a tool for data-driven multiscale modeling of brain circuits.** [eLife 8, e44494](https://elifesciences.org/articles/44494)
