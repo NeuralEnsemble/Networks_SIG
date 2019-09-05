@@ -1,4 +1,4 @@
-## INCF Special Interest Group on Standardised Representations of Network Structures
+# INCF Special Interest Group on Standardised Representations of Network Structures
 
 A number of [Special Interest Groups (SIGs)](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups) 
 are being supported by the [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org) 
@@ -11,7 +11,7 @@ and usable as possible for computational neuroscientists.
 The homepage for this SIG is [here](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised). 
 This GitHub repository is intended for documents, code samples, issue tracking and links to related initiatives. 
 
-### Overview
+## Overview
 
 The motivation for this SIG is the ongoing development of complex data-driven models 
 of neuronal networks, as well as the emergence of general purpose software packages 
@@ -45,7 +45,7 @@ adding other open tools/formats to the interoperability framework and ensuring
 the use of these (particularly low level declarative formats) are as transparent 
 and as user friendly as possible for the modeller. 
 
-### Current members
+## Current members
 
 - Anton Arkhipov, Allen Institute, USA
 - Tom Close, Monash University, Australia
@@ -61,25 +61,25 @@ and as user friendly as possible for the modeller.
 - Marmaduke Woodman, Aix-Marseille Université, France
 
 
-### Activities
+## Activities
 
-#### Ongoing tasks
+### Ongoing tasks
 
 An overview of the tasks which are ongoing and planned related to the work of this SIG can be found here: https://github.com/NeuralEnsemble/Networks_SIG/projects/1
 
-#### CNS 2018
+### CNS 2018
 
 A workshop entitled “Developing, standardising and sharing large scale cortical 
 network models” was held at CNS 2018 in Seattle: http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018. 
 A report of the meeting is available [here](Report_CNS2018_Workshop.md). 
 
-#### OSB 2019
+### OSB 2019
 
 A number of developers of the packages which are part of this SIG will be attending the 
 [Open Source Brain meeting](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) in Alghero, Sardinia in Sept 2019.
 
 
-### Outputs
+## Outputs
 
 The following publications are related to the activities of this SIG. 
 
