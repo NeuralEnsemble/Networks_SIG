@@ -1,6 +1,6 @@
 # INCF Special Interest Group on Standardised Representations of Network Structures
 
-A number of [Special Interest Groups (SIGs)](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups) 
+A number of [Special Interest Groups (SIGs)](https://www.incf.org/activities/special-interest-groups) 
 are being supported by the [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org) 
 to advance areas of common interest within the neuroscience community.  
 
@@ -8,7 +8,7 @@ This SIG deals with the various tools and formats for creating and sharing repre
 of biological neuronal networks, and will work towards ensuring these are as interoperable 
 and usable as possible for computational neuroscientists. 
 
-The homepage for this SIG is [here](https://www.incf.org/activities/standards-and-best-practices/incf-special-interest-groups/incf-sig-on-standardised). 
+The homepage for this SIG is [here](https://www.incf.org/sig/standardised-representations-network-structures). 
 This GitHub repository is intended for documents, code samples, issue tracking and links to related initiatives. 
 
 ## Overview
