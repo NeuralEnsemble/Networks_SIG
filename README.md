@@ -1,4 +1,4 @@
-# INCF Special Interest Group on Standardised Representations of Network Structures
+# INCF SIG on Standardised Representations of Network Structures
 
 A number of [Special Interest Groups (SIGs)](https://www.incf.org/activities/special-interest-groups) 
 are being supported by the [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org) 
@@ -78,6 +78,11 @@ A report of the meeting is available [here](Report_CNS2018_Workshop.md).
 A number of developers of the packages which are part of this SIG presented at the 
 [Open Source Brain meeting](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) in Alghero, Sardinia in Sept 2019. The [meeting page](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) contains links to slide presentations with recent work from many groups/initiatives including the [Human Brain Project](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_2019_yann.pptx), [Allen Institute](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/2019-09-OSB_YazanBilleh_v2.pptx), [NEST](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/multi-area_model_OSB_workshop_2019.pdf), [Geppetto](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/Geppetto_Presentation_OSB_2019.pdf), [NWB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/2019_09_09_opensourcebrain_nwbn_overview.pdf), [TVB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/tvb_osb2019.pdf), [Open Source Brain](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_NeuroML_Intro_Sardinia19.pptx), [NeuroML](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/MultiscaleNetworksNeuroML_Sardinia19.pptx) & [NeuroML-DB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_NeuroML2019.pdf).
 
+
+### CNS 2020
+
+Plans for a workshop related to computational modelling are in development.
+
 ### Neuroinformatics 2020
 
 Plans are in development for SIG activities at the INCF Neuroinformatics 2020 meeting in Seattle in August. Stay tuned...
@@ -98,7 +103,6 @@ Amitava Majumdar, Robert A. McDougal, Subhashini Sivagnanam, Sergio Solinas, Rok
 Kael Dai, Juan Hernando, Yazan N. Billeh, Sergey L. Gratiy, Judit Planas, Andrew P. Davison, Salvador Dura-Bernal, Padraig Gleeson, Adrien Devresse, 
 Michael Gevaert, James G. King, Werner A. H. Van Geit, Arseny V. Povolotsky, Eilif Muller, Jean-Denis Courcol, Anton Arkhipov (2019). 
 **The SONATA data format for efficient description of large-scale network models.** [bioRxiv 625491](https://www.biorxiv.org/content/10.1101/625491v1)
-
 
 Salvador Dura-Bernal, Benjamin A Suter, Padraig Gleeson, Matteo Cantarelli, Adrian Quintana, Facundo Rodriguez, David J Kedziora, George L Chadderdon, 
 Cliff C Kerr, Samuel A Neymotin, Robert A McDougal, Michael Hines, Gordon MG Shepherd, William W Lytton (2019). 
