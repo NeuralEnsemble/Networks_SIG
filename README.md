@@ -71,25 +71,20 @@ An overview of the tasks which are ongoing and planned related to the work of th
 
 A workshop on "Tools and resources for developing and sharing models in computational neuroscience" is being organised by members of the SIG as part of the fully online [CNS 2020 meeting](https://www.cnsorg.org/cns-2020) on 21st & 22nd July. More details [here](https://neuralensemble.github.io/Networks_SIG/CNS2020). 
 
-### CNS 2018
+### Neuroinformatics 2020
 
-A workshop entitled “Developing, standardising and sharing large scale cortical 
-network models” was held at CNS 2018 in Seattle: http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018. 
-A report of the meeting is available [here](Report_CNS2018_Workshop.md). 
+Plans are in development for SIG activities at the (delayed) [INCF Neuroinformatics 2020 meeting](https://neuroinformatics.incf.org/). Stay tuned...
 
 ### OSB 2019
 
 A number of developers of the packages which are part of this SIG presented at the 
 [Open Source Brain meeting](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) in Alghero, Sardinia in Sept 2019. The [meeting page](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) contains links to slide presentations with recent work from many groups/initiatives including the [Human Brain Project](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_2019_yann.pptx), [Allen Institute](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/2019-09-OSB_YazanBilleh_v2.pptx), [NEST](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/multi-area_model_OSB_workshop_2019.pdf), [Geppetto](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/Geppetto_Presentation_OSB_2019.pdf), [NWB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/2019_09_09_opensourcebrain_nwbn_overview.pdf), [TVB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/tvb_osb2019.pdf), [Open Source Brain](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_NeuroML_Intro_Sardinia19.pptx), [NeuroML](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/MultiscaleNetworksNeuroML_Sardinia19.pptx) & [NeuroML-DB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_NeuroML2019.pdf).
 
+### CNS 2018
 
-### CNS 2020
-
-Plans for a workshop related to computational modelling are in development.
-
-### Neuroinformatics 2020
-
-Plans are in development for SIG activities at the INCF Neuroinformatics 2020 meeting in Seattle in August. Stay tuned...
+A workshop entitled “Developing, standardising and sharing large scale cortical 
+network models” was held at CNS 2018 in Seattle: http://www.opensourcebrain.org/docs/Help/Meetings#CNS_2018. 
+A report of the meeting is available [here](Report_CNS2018_Workshop.md). 
 
 ## Outputs
 
