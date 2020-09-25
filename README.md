@@ -67,9 +67,13 @@ and as user friendly as possible for the modeller.
 
 An overview of the tasks which are ongoing and planned related to the work of this SIG can be found here: https://github.com/NeuralEnsemble/Networks_SIG/projects/1
 
+### COMBINE 2020
+
+A workshop on "Standardised neuronal network specifications" is being organised in a breakout session of [COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) on 9th Oct. More details [here](COMBINE2020). 
+
 ### CNS 2020
 
-A workshop on "Tools and resources for developing and sharing models in computational neuroscience" is being organised by members of the SIG as part of the fully online [CNS 2020 meeting](https://www.cnsorg.org/cns-2020) on 21st & 22nd July. More details [here](https://neuralensemble.github.io/Networks_SIG/CNS2020). 
+A workshop on "Tools and resources for developing and sharing models in computational neuroscience" was organised by members of the SIG as part of the fully online [CNS 2020 meeting](https://www.cnsorg.org/cns-2020) on 21/22nd July. More details [here](https://neuralensemble.github.io/Networks_SIG/CNS2020). 
 
 ### Neuroinformatics 2020
 
