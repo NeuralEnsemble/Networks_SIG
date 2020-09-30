@@ -3,10 +3,9 @@
 ## Standardised neuronal network specifications
 
 
-This workshop will be held during a Breakout session of the [COMBINE 2020](http://co.mbine.org/events/COMBINE_2020).
+This workshop will be held during a Breakout session of the [COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) online conference.
 
 ![COMBINE020 Workshop](http://co.mbine.org/sites/combine/files/COMBINE_website-banner.png)
-
 
 
 ### Description
@@ -20,8 +19,8 @@ shared, and importantly compared with other network models and anatomical data, 
 maximising their usefulness as scientific entities. 
 
 While procedural creation of networks is common across all simulators (e.g. using Python scripts), 
-there is still a need for a consensus on a declarative, compact, high level format for describing 
-the properties of the networks (i.e. a reusable template for generating instances of the network) 
+there is still a need for **a consensus on a declarative, compact, high level format for describing 
+the properties of the networks** (i.e. a reusable template for generating instances of the network) 
 which encapsulates the essential biologically relevant features of the modelled system. 
 
 This workshop will gather together developers of simulators and interoperability formats to:
@@ -37,6 +36,16 @@ This workshop is organised as part of the [INCF Special Interest Group (SIG) on 
 **Date:** Friday October 9 2020
 
 **Time:** 14:00 - 17:00 UTC ([more time zones](https://www.timeanddate.com/worldclock/converter.html?iso=20201009T140000&p1=234&p2=136&p3=1440&p4=37&p5=248&p6=176))
+
+Existing and developing formats and tools for network modelling which will be presented/discussed include:
+
+- [NetPyNE](http://netpyne.org/reference.html#network-parameters)
+- [SONATA](https://github.com/AllenInstitute/sonata)
+- [NEST](https://www.nest-initiative.org/) and [related initiatives](https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/2efdb841-fc22-4f0b-82d4-09510f6739c2).
+- [Brian](https://brian2.readthedocs.io/en/stable/resources/tutorials/2-intro-to-brian-synapses.html)
+- [LFPy](https://lfpy.readthedocs.io/en/latest/tutorial.html)
+- [NeuroMLlite](https://github.com/NeuroML/NeuroMLlite/blob/master/README.md)
+
 
 ### Practicalities
 
