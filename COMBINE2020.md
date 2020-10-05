@@ -44,6 +44,8 @@ Existing and developing formats and tools for network modelling which will be pr
 - [NEST](https://www.nest-initiative.org/) and [related initiatives](https://abstracts.g-node.org/conference/BC20/abstracts#/uuid/2efdb841-fc22-4f0b-82d4-09510f6739c2).
 - [Brian](https://brian2.readthedocs.io/en/stable/resources/tutorials/2-intro-to-brian-synapses.html)
 - [LFPy](https://lfpy.readthedocs.io/en/latest/tutorial.html)
+- [PyNN](https://github.com/NeuralEnsemble/PyNN)
+- [Arbor](https://github.com/arbor-sim/arbor)
 - [NeuroMLlite](https://github.com/NeuroML/NeuroMLlite/blob/master/README.md)
 
 
