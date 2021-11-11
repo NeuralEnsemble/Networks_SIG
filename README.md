@@ -67,6 +67,10 @@ and as user friendly as possible for the modeller.
 
 An overview of the tasks which are ongoing and planned related to the work of this SIG can be found here: https://github.com/NeuralEnsemble/Networks_SIG/projects/1
 
+### COMBINE 2021
+
+Many members/initiatives from the WG were involved with the NeuroML development workshop at the [Oct 2021 COMBINE meeting](https://docs.neuroml.org/Events/202109-COMBINE.html), including representatives from NeuroML, NetPyNE and PyNN, where future plans for network specification in NeuroML (centred around [NeuroMLlite](https://github.com/NeuroML/NeuroMLlite)) were discussed.
+
 ### COMBINE 2020
 
 A workshop on "Standardised neuronal network specifications" is being organised in a breakout session of [COMBINE 2020](http://co.mbine.org/events/COMBINE_2020) on 9th Oct. More details [here](COMBINE2020). 
