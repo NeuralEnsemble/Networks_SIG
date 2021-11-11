@@ -1,19 +1,19 @@
-# INCF SIG on Standardised Representations of Network Structures
+# INCF Working Group on Standardised Representations of Network Structures
 
 A number of [Special Interest Groups (SIGs)](https://www.incf.org/activities/special-interest-groups) 
-are being supported by the [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org) 
-to advance areas of common interest within the neuroscience community.  
+were created by the [International Neuroinformatics Coordinating Facility (INCF)](https://www.incf.org) 
+to advance areas of common interest within the neuroscience community. These are now referred to as [Working Groups](https://www.incf.org/activities/working-groups) (WG).  
 
-This SIG deals with the various tools and formats for creating and sharing representations 
+This WG deals with the various tools and formats for creating and sharing representations 
 of biological neuronal networks, and will work towards ensuring these are as interoperable 
 and usable as possible for computational neuroscientists. 
 
-The homepage for this SIG is [here](https://www.incf.org/sig/standardised-representations-network-structures). 
+The homepage for this WG is [here](https://www.incf.org/sig/standardised-representations-network-structures). 
 This GitHub repository is intended for documents, code samples, issue tracking and links to related initiatives. 
 
 ## Overview
 
-The motivation for this SIG is the ongoing development of complex data-driven models 
+The motivation for this WG is the ongoing development of complex data-driven models 
 of neuronal networks, as well as the emergence of general purpose software packages 
 and standardised formats to make it easier to build, specify and share such networks. 
 To encourage researchers to use these common tools and formats (and ultimately create 
@@ -37,7 +37,7 @@ The short term goals focus on highlighting and promoting existing open source in
 Practical steps will include making sure these are compatible and interoperable where appropriate.
 
 <p align="center"><img src="images/Formats.png"><br/><sup><i>Some of the formats 
-which are being examined in this SIG and their scope in terms of biophysical detail 
+which are being examined in this WG and their scope in terms of biophysical detail 
 (x-axis) and usage in the model building workflow (y-axis).</i></sup></p>
 
 Longer term goals including working towards minimising overlap in functionality/scope, 
@@ -65,7 +65,7 @@ and as user friendly as possible for the modeller.
 
 ### Ongoing tasks
 
-An overview of the tasks which are ongoing and planned related to the work of this SIG can be found here: https://github.com/NeuralEnsemble/Networks_SIG/projects/1
+An overview of the tasks which are ongoing and planned related to the work of this WG can be found here: https://github.com/NeuralEnsemble/Networks_SIG/projects/1
 
 ### COMBINE 2021
 
@@ -77,15 +77,15 @@ A workshop on "Standardised neuronal network specifications" is being organised 
 
 ### CNS 2020
 
-A workshop on "Tools and resources for developing and sharing models in computational neuroscience" was organised by members of the SIG as part of the fully online [CNS 2020 meeting](https://www.cnsorg.org/cns-2020) on 21/22nd July. More details [here](https://neuralensemble.github.io/Networks_SIG/CNS2020). 
+A workshop on "Tools and resources for developing and sharing models in computational neuroscience" was organised by members of the WG as part of the fully online [CNS 2020 meeting](https://www.cnsorg.org/cns-2020) on 21/22nd July. More details [here](https://neuralensemble.github.io/Networks_SIG/CNS2020). 
 
 ### Neuroinformatics 2020
 
-Plans are in development for SIG activities at the (delayed) [INCF Neuroinformatics 2020 meeting](https://neuroinformatics.incf.org/). Stay tuned...
+Plans are in development for WG activities at the (delayed) [INCF Neuroinformatics 2020 meeting](https://neuroinformatics.incf.org/). Stay tuned...
 
 ### OSB 2019
 
-A number of developers of the packages which are part of this SIG presented at the 
+A number of developers of the packages which are part of this WG presented at the 
 [Open Source Brain meeting](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) in Alghero, Sardinia in Sept 2019. The [meeting page](http://www.opensourcebrain.org/docs/Help/Meetings#OSB_2019) contains links to slide presentations with recent work from many groups/initiatives including the [Human Brain Project](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_2019_yann.pptx), [Allen Institute](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/2019-09-OSB_YazanBilleh_v2.pptx), [NEST](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/multi-area_model_OSB_workshop_2019.pdf), [Geppetto](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/Geppetto_Presentation_OSB_2019.pdf), [NWB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/2019_09_09_opensourcebrain_nwbn_overview.pdf), [TVB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/tvb_osb2019.pdf), [Open Source Brain](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_NeuroML_Intro_Sardinia19.pptx), [NeuroML](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/MultiscaleNetworksNeuroML_Sardinia19.pptx) & [NeuroML-DB](https://github.com/OpenSourceBrain/OSB_Documentation/raw/master/resources/docs/OSB2019/OSB_NeuroML2019.pdf).
 
 ### CNS 2018
@@ -96,10 +96,10 @@ A report of the meeting is available [here](Report_CNS2018_Workshop.md).
 
 ## Outputs
 
-The following publications are related to the activities of this SIG. 
+The following publications are related to the activities of this WG. 
 
-**Note: these have not been specifically coordinated/funded/directed through this SIG, but feature 
- authors from multiple labs who are members of this SIG and are in line with the goals of the wider group.**
+**Note: these have not been specifically coordinated/funded/directed through this WG, but feature 
+ authors from multiple labs who are members of this WG and are in line with the goals of the wider group.**
 
 
 Padraig Gleeson, Matteo Cantarelli, Boris Marin, Adrian Quintana, Matt Earnshaw, Sadra Sadeh, Eugenio Piasini, Justas Birgiolas, Robert C. Cannon, N. Alex Cayco-Gajic,
