@@ -67,6 +67,10 @@ and as user friendly as possible for the modeller.
 
 An overview of the tasks which are ongoing and planned related to the work of this WG can be found here: https://github.com/NeuralEnsemble/Networks_SIG/projects/1
 
+### INCF Neuroinformatics Assembly 2022
+
+A workshop on **Tools and formats for large scale network modelling** will be organised by the WG at the [INCF Neuroinformatics Assembly 2022](https://neuroinformatics.incf.org/). See [here](INCFNeuroinfAssembly2022.md) for more information. 
+
 ### COMBINE 2021
 
 Many members/initiatives from the WG were involved with the NeuroML development workshop at the [Oct 2021 COMBINE meeting](https://docs.neuroml.org/Events/202109-COMBINE.html), including representatives from NeuroML, NetPyNE and PyNN, where future plans for network specification in NeuroML (centred around [NeuroMLlite](https://github.com/NeuroML/NeuroMLlite)) were discussed.
